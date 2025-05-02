@@ -66,7 +66,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/A289shek2004/CO2_Emissions_Vehicles.git
+git clone [https://github.com/A289shek2004/CO2_Emissions_Vehicles.git](https://github.com/A289shek2004/CO2_Emmision_Vehicles/tree/main)
 cd CO2-Emissions-Vehicle
 
 
