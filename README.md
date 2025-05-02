@@ -1,4 +1,6 @@
 ******📊 CO₂ Emissions by Vehicle – Data Visualization & Prediction App******
+
+
 This Streamlit project analyzes and predicts CO₂ emissions from various vehicle specifications using a real-world dataset. The app provides powerful visual insights into emission trends across brands, fuel types, and engine sizes, along with an ML-based prediction model.
 
 🚀 Features
