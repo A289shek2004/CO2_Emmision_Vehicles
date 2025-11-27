@@ -102,7 +102,7 @@ Add feature for uploading custom CSVs
 Improve user interface with modern UI components
 
 Deploy the app via Streamlit Cloud: 
-https://co2emmisionvehicles.streamlit.app/
+https://co2-emmision-vehicles-prediction.streamlit.app/
 
 **🧑‍💻 Author**
 Abhishek Gupta
