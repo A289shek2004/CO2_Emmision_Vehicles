@@ -31,8 +31,11 @@ Edit
 ├── app.py                                 # Streamlit application script
 ├── co2 Emissions.csv                      # Dataset used in the project
 ├── co2_emission_by_vehicle_project.ipynb  # Data exploration & modeling notebook
-└── README.md                              # Project documentation
-📈 Sample Visuals
+├── README.md                              # Project documentation
+└── requirements.txt                       # Required installation
+
+📈 Sample Visuals:
+
 Brand-wise vehicle counts
 
 Top 25 most common models
@@ -45,7 +48,8 @@ Transmission-based emission comparison
 
 Before/after outlier handling visualizations
 
-🧠 Machine Learning Model
+🧠 Machine Learning Model:
+
 Model Used: RandomForestRegressor from Scikit-learn
 
 Features Used:
@@ -88,7 +92,7 @@ scipy
 **📚 Dataset**
 The dataset co2 Emissions.csv contains vehicle data including make, model, engine size, fuel consumption, transmission type, fuel type, and CO₂ emissions.
 
-Source: [Government Vehicle Emissions Data (Canada)] (or mention actual source if available)
+Source: [Government Vehicle Emissions Data (Canada)]
 
 ✅ Future Improvements
 Include more ML models for comparison (e.g., Linear Regression, Gradient Boosting)
@@ -97,11 +101,12 @@ Add feature for uploading custom CSVs
 
 Improve user interface with modern UI components
 
-Deploy the app via Streamlit Cloud or Heroku
+Deploy the app via Streamlit Cloud: 
+https://co2emmisionvehicles.streamlit.app/
 
 **🧑‍💻 Author**
 Abhishek Gupta
-Aspiring Data Scientist | YouTuber | Educator
+Aspiring Data Scientist | Data Analyst |
 
 
 
